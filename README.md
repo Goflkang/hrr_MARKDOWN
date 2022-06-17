@@ -2,7 +2,7 @@
 hrr_MARKDOWN
 
 ## 이미지 넣기
-![불금]()
+![불금](https://github.com/Goflkang/hrr_MARKDOWN/blob/main/aaa.png?raw=true)
 
 
 ## 강조
